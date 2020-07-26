@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![TheCarlosCastilla's github stats](https://github-readme-stats.vercel.app/api?username=TheCarlosCastilla&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![TheCarlosCastilla's github stats](https://github-readme-stats.vercel.app/api?username=TheCarlosCastilla&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarlosCastilla&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
